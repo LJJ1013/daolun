@@ -1,0 +1,6 @@
+<!--start.wxml-->
+<view class="intro">
+  
+</view>
+
+<button class="btn1" bindtap="navigate">点击查看图表</button>
